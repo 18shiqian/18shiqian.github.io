@@ -12,10 +12,10 @@ if ($(window).width() <= 1280) {
 
 // Variables
     tag1       = $('.pl__all'),
-    tag2       = $('.c language'),
-    tag3       = $('.c a'),
+    tag2       = $('.clanguage'),
+    tag3       = $('.ca'),
     tag4       = $('.java'),
-    tag5       = $('.easy language'),
+    tag5       = $('.easylanguage'),
     tag6       = $('.Empty');
 var sidebar    = $('#sidebar'),
     container  = $('#post'),
